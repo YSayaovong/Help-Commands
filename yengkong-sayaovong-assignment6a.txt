@@ -1,0 +1,19 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220919192956
+Username: DESKTOP-39DRNO6\ysaya
+RunAs User: DESKTOP-39DRNO6\ysaya
+Configuration Name: 
+Machine: DESKTOP-39DRNO6 (Microsoft Windows NT 10.0.19044.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 8004
+PSVersion: 5.1.19041.1237
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1237
+BuildVersion: 10.0.19041.1237
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\ysaya\OneDrive\Documents\PowerShell_transcript.DESKTOP-39DRNO6.3kB_0wtK.20220919192956.txt
